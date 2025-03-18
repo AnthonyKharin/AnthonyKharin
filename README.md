@@ -12,5 +12,3 @@ Android Developer, KMP Developer
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=AnthonyKharin&style=flat&color=red" alt=""/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyKharin)](https://github.com/anuraghazra/github-readme-stats)
